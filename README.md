@@ -9,12 +9,12 @@
 
 **Show support:**
 <br>
-Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/snake-game.svg?style=social&label=Star)
+Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxrohowsky/snake-game.svg?style=social&label=Star)
 <br>
-Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
+Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxrohowsky.svg?style=social&label=Follow)
 <br>
 
-Made by [maxontech](https://twitter.com/max_on_tech)
+Made by [maxrohowsky](https://twitter.com/maxrohowsky)
 
 ## Table of contents
 
@@ -68,4 +68,4 @@ Note on PyCharm: Often PyCharm detects the requirements and asks you to install 
 
 ## Contact
 
-Feel free to reach out to me [on Twitter](https://twitter.com/max_on_tech) if you have any questions or feedback! Hope you find this useful!
+Feel free to reach out to me [on Twitter](https://twitter.com/maxrohowsky) if you have any questions or feedback! Hope you find this useful!
